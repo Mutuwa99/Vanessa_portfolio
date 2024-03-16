@@ -1,0 +1,4 @@
+git int: start git repo
+git add . : add changes to your git 
+git commit -m : commit your changes
+git push: take ur code and put it to git hub 
